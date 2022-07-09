@@ -1,5 +1,4 @@
 <# Script: Auto-ProcmonData
-   Dev:Emmanuel Domenech
    Created : 06/13/2022
    
    The Auto-ProcmonData will run Sysinternal utility Process Monitor 'Procmon' on a remote system, 
