@@ -14,7 +14,7 @@
          [Parameter(Mandatory)][string]$ComputerName, #Remote machine
          [Parameter(Mandatory)][ValidateRange(10,60)][int]$Duration, #Time of collect in Seconds
          [Parameter()][string]$ProcmonPath = 'C:\', #Path To Procmon.exe on local machine
-         [Parameter()][string]$PsExecPath = 'C:\PsExec.exe', #Path to PsExec.exe
+         [Parameter()][string]$PsExecPath = 'C:\', #Path to PsExec.exe
          [Parameter()][string]$SaveDataPath = 'C:\' #Path to save generated file
          )
 
