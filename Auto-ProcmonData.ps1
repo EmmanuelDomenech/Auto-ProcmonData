@@ -1,5 +1,6 @@
-<# Script: Auto-ProcmonData
+<# PowerShell Script: Auto-ProcmonData
    Created : 06/13/2022
+   Dev: Emmanuel Domenech
    
    The Auto-ProcmonData will run Sysinternal utility Process Monitor 'Procmon' on a remote system, 
    and will prompt the user to provide the remote machine name and also the duration of colletion of data in seconds.
